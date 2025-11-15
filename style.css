@@ -13,10 +13,12 @@ html {
 
 body {
     font-family: Arial, Geneva, sans-serif;
+
+	/* water background to cover entire page behind wrapper */
+	background-image: url("https://cdna.artstation.com/p/assets/images/images/030/953/926/large/lunar-0001.jpg?1602150313");
+	background-size: cover;
 }
-a {
-    color: #2772B0;
-}
+
 .wrapper {
     width: 97%;
     max-width: 1200px;
